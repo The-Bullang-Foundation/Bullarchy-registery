@@ -1,0 +1,7 @@
+{
+  "netlib": {
+    "description": "Networking utilities for Bullang",
+    "version": "v1.0.0",
+    "git": "https://github.com/The-Bullang-Foundation/bull-netlib"
+  }
+}
