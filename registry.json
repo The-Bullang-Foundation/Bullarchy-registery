@@ -1,7 +1,8 @@
 {
-  "netlib": {
-    "description": "Networking utilities for Bullang",
+  "mathlib": {
+    "description": "Math and sorting builtins for Bullang (abs, pow, sqrt, sort...)",
     "version": "v1.0.0",
-    "git": "https://github.com/The-Bullang-Foundation/bull-netlib"
+    "git": "https://github.com/The-Bullang-Foundation/Mathlib.git",
+    "feature": "mathlib"
   }
 }
