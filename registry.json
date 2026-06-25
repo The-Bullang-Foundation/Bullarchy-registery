@@ -4,5 +4,11 @@
     "version": "v1.0.0",
     "git": "https://github.com/The-Bullang-Foundation/Mathlib.git",
     "feature": "mathlib"
+  },
+  "netlib": {
+    "description": "Networking builtins for Bullang (ssh, nc, nmap). For authorized pentest use.",
+    "version": "v1.0.0",
+    "git": "https://github.com/The-Bullang-Foundation/Netlib.git",
+    "feature": "netlib"
   }
 }
